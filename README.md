@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS and Angular
 - 💞️ I’m looking to collaborate on any landing page creating with WordPress/HTML/CSS/JS
-- 📫 How to reach me ...
+- 📫 
 
 <!---
 josephfreeman98/josephfreeman98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
