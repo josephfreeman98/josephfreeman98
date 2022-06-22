@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephfreeman98
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS and Angular
-- 💞️ I’m looking to collaborate on any landing page creating with WordPress/HTML/CSS/JS
+- 🌱 I’m currently learning TS and Angular
+- 💞️ I’m looking to collaborate on any OpenSource project
 - 📫 
 
 <!---
